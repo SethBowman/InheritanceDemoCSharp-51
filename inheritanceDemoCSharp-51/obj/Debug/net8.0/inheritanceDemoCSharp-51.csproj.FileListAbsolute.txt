@@ -1,0 +1,14 @@
+C:\Users\sethb\OneDrive\Desktop\repos\inheritanceDemoCSharp-51\inheritanceDemoCSharp-51\bin\Debug\net8.0\inheritanceDemoCSharp-51.exe
+C:\Users\sethb\OneDrive\Desktop\repos\inheritanceDemoCSharp-51\inheritanceDemoCSharp-51\bin\Debug\net8.0\inheritanceDemoCSharp-51.deps.json
+C:\Users\sethb\OneDrive\Desktop\repos\inheritanceDemoCSharp-51\inheritanceDemoCSharp-51\bin\Debug\net8.0\inheritanceDemoCSharp-51.runtimeconfig.json
+C:\Users\sethb\OneDrive\Desktop\repos\inheritanceDemoCSharp-51\inheritanceDemoCSharp-51\bin\Debug\net8.0\inheritanceDemoCSharp-51.dll
+C:\Users\sethb\OneDrive\Desktop\repos\inheritanceDemoCSharp-51\inheritanceDemoCSharp-51\bin\Debug\net8.0\inheritanceDemoCSharp-51.pdb
+C:\Users\sethb\OneDrive\Desktop\repos\inheritanceDemoCSharp-51\inheritanceDemoCSharp-51\obj\Debug\net8.0\inheritanceDemoCSharp-51.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sethb\OneDrive\Desktop\repos\inheritanceDemoCSharp-51\inheritanceDemoCSharp-51\obj\Debug\net8.0\inheritanceDemoCSharp-51.AssemblyInfoInputs.cache
+C:\Users\sethb\OneDrive\Desktop\repos\inheritanceDemoCSharp-51\inheritanceDemoCSharp-51\obj\Debug\net8.0\inheritanceDemoCSharp-51.AssemblyInfo.cs
+C:\Users\sethb\OneDrive\Desktop\repos\inheritanceDemoCSharp-51\inheritanceDemoCSharp-51\obj\Debug\net8.0\inheritanceDemoCSharp-51.csproj.CoreCompileInputs.cache
+C:\Users\sethb\OneDrive\Desktop\repos\inheritanceDemoCSharp-51\inheritanceDemoCSharp-51\obj\Debug\net8.0\inheritanceDemoCSharp-51.dll
+C:\Users\sethb\OneDrive\Desktop\repos\inheritanceDemoCSharp-51\inheritanceDemoCSharp-51\obj\Debug\net8.0\refint\inheritanceDemoCSharp-51.dll
+C:\Users\sethb\OneDrive\Desktop\repos\inheritanceDemoCSharp-51\inheritanceDemoCSharp-51\obj\Debug\net8.0\inheritanceDemoCSharp-51.pdb
+C:\Users\sethb\OneDrive\Desktop\repos\inheritanceDemoCSharp-51\inheritanceDemoCSharp-51\obj\Debug\net8.0\inheritanceDemoCSharp-51.genruntimeconfig.cache
+C:\Users\sethb\OneDrive\Desktop\repos\inheritanceDemoCSharp-51\inheritanceDemoCSharp-51\obj\Debug\net8.0\ref\inheritanceDemoCSharp-51.dll
